@@ -1,0 +1,11 @@
+@LoanPortalAPIDev_HostAddress = http://localhost:54968
+
+GET {{LoanPortalAPIDev_HostAddress}}/api/foo
+Accept: application/json
+Authorization: Bearer sdsdsd
+
+###
+GET {{LoanPortalAPIDev_HostAddress}}/weatherforecast
+
+
+###
